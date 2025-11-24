@@ -7,15 +7,15 @@ export const CREATE_SESSION_ENDPOINT = "/api/create-session";
 
 export const STARTER_PROMPTS: StartScreenPrompt[] = [
   {
-    label: "What can you do?",
-    prompt: "What can you do?",
+    label: "Hvad kan du?",
+    prompt: "Hvad kan Win Room Buddy GPT?",
     icon: "circle-question",
   },
 ];
 
-export const PLACEHOLDER_INPUT = "Ask anything...";
+export const PLACEHOLDER_INPUT = "Spørg mig om en kunde, eller andet du ville bruge Win Room til";
 
-export const GREETING = "How can I help you today?";
+export const GREETING = "Hej! Win Room Buddy står klar til at hjælpe.";
 
 export const getThemeConfig = (theme: ColorScheme): ThemeOption => ({
   color: {
