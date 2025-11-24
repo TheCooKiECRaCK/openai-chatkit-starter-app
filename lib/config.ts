@@ -8,7 +8,7 @@ export const CREATE_SESSION_ENDPOINT = "/api/create-session";
 export const STARTER_PROMPTS: StartScreenPrompt[] = [
   {
     label: "Hvad kan du?",
-    prompt: "Hvad kan Win Room Buddy GPT?",
+    prompt: "Forklar mig hvad jeg kan bruge dette Win Room værktøj til.",
     icon: "circle-question",
   },
 ];
