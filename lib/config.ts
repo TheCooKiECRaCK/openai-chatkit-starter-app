@@ -13,7 +13,7 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
   },
 ];
 
-export const PLACEHOLDER_INPUT = "Spørg mig om en kunde, eller andet du ville bruge Win Room til";
+export const PLACEHOLDER_INPUT = "Spørg mig om en kunde, eller andet du ville bruge Win Room til.";
 
 export const GREETING = "Hej! Win Room Buddy står klar til at hjælpe.";
 
